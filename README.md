@@ -1,8 +1,8 @@
 # english-coding-dojo
-Projeto imersivo para prática de inglês voltada para área de tecnologia, com a criação de projeto open source durante a prática da língua inglesa
+Projeto imersivo para prática de inglês voltada para a área de tecnologia, com a criação de projeto open source durante a prática da língua inglesa
 
 # Como participar
-Se inscreva no formulário para aplicar para o projeto. Serão selecionadas inicialmente até 7 pessoas para compor o primeiro grupo de estudo.
+Inscreva-se no [formulário para aplicar para o projeto](https://forms.gle/n3DmBUsU7TTLc38KA). Serão selecionadas inicialmente até 7 pessoas para compor o primeiro grupo de estudo.
 
 # Requisitos
 - Inglês intermediário ou avançado
