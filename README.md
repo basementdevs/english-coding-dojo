@@ -25,9 +25,6 @@ Inscreva-se no [formulário para aplicar para o projeto](https://forms.gle/n3DmB
 # Calendário
 Duração de 1 mês do primeiro grupo de estudo. Se der bom, depois formularemos novas datas/grupos.
 
-- **24/01** - Reunião de abertura
-- **31/01** - Reunião de review
-- **07/02** - Reunião de review
-- **14/02** - Reunião de review
+- **14/02** - Reunião de abertura
 - **21/02** - Reunião de review
-- **28/02** - Encerramento 
+- **28/02** - Reunião de review
