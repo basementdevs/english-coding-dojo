@@ -1,30 +1,31 @@
 # english-coding-dojo
-Projeto imersivo para prática de inglês voltada para a área de tecnologia, com a criação de projeto open source durante a prática da língua inglesa na comunidade [Dev Basement](https://discord.gg/tmtn4At2).
 
-# Como participar
-Inscreva-se no [formulário para aplicar para o projeto](https://forms.gle/n3DmBUsU7TTLc38KA). Serão selecionadas inicialmente até 7 pessoas para compor o primeiro grupo de estudo.
+An immersive project for English practice tailored for the technology field, involving the creation of an open-source project while practicing the English language within the [Dev Basement](https://discord.gg/tmtn4At2) community.
 
-# Requisitos
-- Inglês intermediário ou avançado
-- Estudar ou trabalhar na área da tecnologia (Desenvolvimento, dados, produto, ux/ui, QA etc..)
-- Dispor de 1 hora semanal no período da noite para participar de chamada de voz em grupo
-- Participar, em momentos assíncronos, das interações no canal do discord ou fazer uma tarefa no projeto open source (conforme sua disponibilidade e interesse, nada fixo nesse item)
+# How to Participate
+Register through the [form to apply for the project](https://forms.gle/n3DmBUsU7TTLc38KA). Initially, up to 7 people will be selected to form the first study group.
 
-# O que incluí
-- Um grupo de estudo com pessoas de áreas diversas na tecnologia
-- Canal exclusivo para o projeto na comunidade do discord Dev Basement
-  - Praticar escrita e leitura somente em inglês com o grupo de estudo
-  - Tirar dúvidas sobre o projeto, trocar ideias e compartilhar experiências
-- 1 reunião semanal simulando uma reunião de sprint
-  - Conversas no canal de voz em inglês
-- Criação de um projeto open source para estudo
-  - Base de código, commits e documentação em inglês
-  - Praticar ideação do produto, desenvolvimento, boas práticas e melhorias de processos em inglês
-- Criação de um artigo/apresentação em inglês sobre um assunto que aprendeu ao final do projeto
+# Requirements
+- Intermediate or advanced English proficiency
+- Studying or working in the technology field (Development, data, product, UX/UI, QA, etc.)
+- Availability of 1 hour per week in the evening to participate in a group voice call
+- Participate asynchronously in interactions on the Discord channel or contribute to an open-source project (based on your availability and interest, nothing fixed in this item)
 
-# Calendário
-Duração de 1 mês do primeiro grupo de estudo. Se der bom, depois formularemos novas datas/grupos.
+# What's Included
+- A study group with people from various technology fields
+- An exclusive channel for the project in the Dev Basement Discord community
+  - Practice writing and reading only in English with the study group
+  - Ask questions about the project, exchange ideas, and share experiences
+- 1 weekly meeting simulating a sprint meeting
+  - Conversations in the voice channel in English
+- Creation of an open-source project for study
+  - Codebase, commits, and documentation in English
+  - Practice product ideation, development, best practices, and process improvements in English
+- Creation of an article/presentation in English about a topic learned at the end of the project
 
-- **14/02** - Reunião de abertura
-- **21/02** - Reunião de review
-- **28/02** - Reunião de review
+# Calendar
+Duration of 1 month for the first study group. If successful, we will plan new dates/groups later.
+
+- **14/02** - Opening meeting
+- **21/02** - Review meeting
+- **28/02** - Review meeting
