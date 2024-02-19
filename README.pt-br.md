@@ -1,30 +1,38 @@
-# english-coding-dojo
-Projeto imersivo para prática de inglês voltada para a área de tecnologia, com a criação de projeto open source durante a prática da língua inglesa na comunidade [Dev Basement](https://discord.gg/tmtn4At2).
+# Basement Devs Coding Dojo
+Um evento onde os membros da comunidade assumem papéis em um time de desenvolvimento simulando uma sprint real com o objetivo de entregar um aplicativo simples, mas completo, em um mês dentro da comunidade [Basement Devs](https://discord.gg/basementdevs).
 
-# Como participar
-Inscreva-se no [formulário para aplicar para o projeto](https://forms.gle/n3DmBUsU7TTLc38KA). Serão selecionadas inicialmente até 7 pessoas para compor o primeiro grupo de estudo.
+O evento foca na prática de inglês e interação com a comunidade open-source promovendo reuniões semanais para discussão do projeto desde o planejamento até a review.
 
-# Requisitos
-- Inglês intermediário ou avançado
-- Estudar ou trabalhar na área da tecnologia (Desenvolvimento, dados, produto, ux/ui, QA etc..)
-- Dispor de 1 hora semanal no período da noite para participar de chamada de voz em grupo
-- Participar, em momentos assíncronos, das interações no canal do discord ou fazer uma tarefa no projeto open source (conforme sua disponibilidade e interesse, nada fixo nesse item)
+# Junte-se ao Dojo!
+Para participar de um Coding Dojo você deve ser um membro da comunidade [Basement Devs](https://discord.gg/basementdevs) e se inscrever-se preenchendo o [Formulário de Registro Coding Dojo](https://forms.gle/n3DmBUsU7TTLc38KA).
 
-# O que incluí
-- Um grupo de estudo com pessoas de áreas diversas na tecnologia
-- Canal exclusivo para o projeto na comunidade do discord Dev Basement
-  - Praticar escrita e leitura somente em inglês com o grupo de estudo
-  - Tirar dúvidas sobre o projeto, trocar ideias e compartilhar experiências
-- 1 reunião semanal simulando uma reunião de sprint
-  - Conversas no canal de voz em inglês
-- Criação de um projeto open source para estudo
-  - Base de código, commits e documentação em inglês
-  - Praticar ideação do produto, desenvolvimento, boas práticas e melhorias de processos em inglês
-- Criação de um artigo/apresentação em inglês sobre um assunto que aprendeu ao final do projeto
+Geralmente até 7 pessoas podem ser selecionadas para participar de cada Coding Dojo, mas não há um limite para o número de membros participando em um mesmo time no Coding Dojo, isso pode variar de acordo com o planejamento da aplicação.
+
+## Requerimentos
+- Ser um membro da comunidade [Basement Devs](https://discord.gg/basementdevs).
+- Inglês intermediário
+- Estudar ou trabalhar na área de tecnologia (desenvolvimento, dados, produto, design, qualidade, etc.)
+- Disponibilidade de 1 hora por semana para participar das reuniões do Coding Dojo
+- Disponibilidade para participar de maneira assíncrona em interações no canal do Coding Dojo dentro da comunidade [Basement Devs](https://discord.gg/basementdevs) ou contribuir com o projeto open-source do Coding Dojo
+
+## O que você ganha
+- Um grupo de estudos ativo com pessoas de diferentes áreas da tecnologia
+- Um canal exclusivo para o projeto na comunidade [Basement Devs](https://discord.gg/basementdevs)
+  - Prática de leitura e escrita em Inglês com o time do Coding Dojo
+  - Tira dúvidas sobre o projeto, troca de ideias e experiências
+- Uma reunião semanal simulando uma reunião de sprint
+  - Conversação em Inglês no canal de voz
+- Participação em um projeto open-source para estudos
+  - Codebase, commits e documentação toda em Inglês
+  - Prática de ideação de produto, desenvolvimento, boas práticas e processos de melhoria em Inglês
+- Escrita de um artigo/apresentação em Inglês sobre sua experiência durante o Coding Dojo ao final do projeto
 
 # Calendário
-Duração de 1 mês do primeiro grupo de estudo. Se der bom, depois formularemos novas datas/grupos.
+Com a duração de 1 mês, a cada novo mês um novo time será escolhido para participar do desenvolvimento de uma nova aplicação.
 
-- **14/02** - Reunião de abertura
-- **21/02** - Reunião de review
-- **28/02** - Reunião de review
+- **Coding Dojo #1** *(Fevereiro)* - [Poker Planning Web App](https://github.com/basementdevs/planning_poker)
+- **Coding Dojo #2** *(Março)* - To be defined
+
+# Conheça a criadora
+| <img src="https://github.com/reenatoteixeira/planning_poker/assets/99664161/44ae38d9-0dd4-4871-95b0-a360a7b52682" alt="Foto de perfil da Lorena" width="150"/> | <h3>Lorena Montes</h3> <p>Fullstack Developer e Tech Manager</p> <a href="https://www.linkedin.com/in/lorenagmontes/" target="_blank">LinkedIn</a> / <a href="https://github.com/lorenalgm/" target="_blank">GitHub</a> <h3> </h3> |
+| --- | --- |
